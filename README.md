@@ -1,7 +1,7 @@
-## Hi👋，welcome to my github.
-I'm a student now.I want to learn more about what I am interested in.🤔Please follow me,I look forward to making friends with you and we learn from each other.
+## Hi👋, welcome to my github.
+I'm a student now. I want to learn more about what I am interested in. 🤔Please follow me, I look forward to making friends with you and we learn from each other.
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影中怀抱虚妄)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAICAIIs)
