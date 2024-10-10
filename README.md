@@ -1,7 +1,20 @@
-## Hi👋，welcome to my github.I'm a student now.I want to learn more about what I am interested in.🤔Please follow me,I look forward to making friends with you and we learn from each other.
+## Hi👋，welcome to my github.
+I'm a student now.I want to learn more about what I am interested in.🤔Please follow me,I look forward to making friends with you and we learn from each other.
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CAICAIIs&left_color=green&right_color=red)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAICAIIs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAICAIIs)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=CAICAIIs)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=CAICAIIs)
 <!--
 **CAICAIIs/CAICAIIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
