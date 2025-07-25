@@ -30,10 +30,6 @@ I'm a student now. I want to learn more about what I am interested in. 🤔Pleas
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=github-compact&hide_border=true&area=true" />
 </center>
 
-**📫 How to Reach me:**
-<p align="center">
-<a href="https://wpa.qq.com/msgrd?v=3&uin=3360776475&site=qq&menu=yes" target="blank"><img align="center" src="https://wiki.connect.qq.com/wp-content/uploads/2013/10/03_qq_symbol-1-250x300.png" alt="TencentQQ" height="30" width="25" /></a>
-</p>
 
 <!--
 **CAICAIIs/CAICAIIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
