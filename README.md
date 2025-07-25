@@ -4,16 +4,37 @@ I'm a student now. I want to learn more about what I am interested in. 🤔Pleas
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAICAIIs)
+### 📈 GitHub Activity Graph:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAICAIIs)
+<table rules="none" align="center">
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api?username=CAICAIIs&show_icons=true&theme=default&include_all_commits=true" width="100%" />
+				</img>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAICAIIs&theme=default&layout=compact" width="100%" />
+				</img>
+			</center>
+		</td>
+</table>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs)
+<center>
+		<img src="https://streak-stats.demolab.com?user=CAICAIIs&theme=gruvbox-duo" width="100%" />
+		</img>
+</center>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=CAICAIIs)
+<center>
+		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=github-compact&hide_border=true&area=true" />
+</center>
 
+**📫 How to Reach me:**
+<p align="center">
+<a href="https://wpa.qq.com/msgrd?v=3&uin=3360776475&site=qq&menu=yes" target="blank"><img align="center" src="https://wiki.connect.qq.com/wp-content/uploads/2013/10/03_qq_symbol-1-250x300.png" alt="TencentQQ" height="30" width="25" /></a>
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CAICAIIs)
 <!--
 **CAICAIIs/CAICAIIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
