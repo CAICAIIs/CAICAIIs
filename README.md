@@ -3,6 +3,8 @@
 
 I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
 
+<img src="moe.jpg" alt="My Image" width="300" />
+
 ## :art:ME
 - Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="12px" >](https://github.com/NCUHOME)**
 - Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="12px" >](https://github.com/NCUSCC)**
