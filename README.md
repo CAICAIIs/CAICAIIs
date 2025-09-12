@@ -1,4 +1,4 @@
-## 🎉Hi! Welcome my github
+## 🎉Hi! Nice to meet you!
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
 ### I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
