@@ -1,10 +1,16 @@
-## Hi👋, welcome to my github.
-I'm a student now. I want to learn more about what I am interested in. 🤔Please follow me, I look forward to making friends with you and we learn from each other.
-
+## 🎉Hi, welcome
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
+An ordinary college student who loves getting involved in all kinds of open-source projects.
 
-### 📈 GitHub Activity Graph:
+## :art:ME
+- Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="12px" >](https://github.com/NCUHOME)**
+- Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="12px" >](https://github.com/NCUSCC)**
+- Member of **[@hust-open-atom-club<img src="https://avatars.githubusercontent.com/u/164288024?s=200&v=4" width="12px" >](https://github.com/hust-open-atom-club)**
+
+
+
+## 📈 GitHub Activity Graph:
 
 <table rules="none" align="center">
 		<td>
@@ -30,7 +36,7 @@ I'm a student now. I want to learn more about what I am interested in. 🤔Pleas
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=github-compact&hide_border=true&area=true" />
 </center>
 
-### 🧑‍🤝‍🧑 Visitors
+## 🧑‍🤝‍🧑 Visitors
 
 ![Visitor Count](https://count.getloli.com/get/@:CAICAIIs)
 
