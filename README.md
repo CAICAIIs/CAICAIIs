@@ -30,6 +30,9 @@ I'm a student now. I want to learn more about what I am interested in. 🤔Pleas
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=github-compact&hide_border=true&area=true" />
 </center>
 
+### 🧑‍🤝‍🧑 Visitors
+
+![Visitor Count](https://count.getloli.com/get/@:CAICAIIs)
 
 <!--
 **CAICAIIs/CAICAIIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
