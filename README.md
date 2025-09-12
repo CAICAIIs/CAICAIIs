@@ -1,7 +1,7 @@
 ## 🎉Hi, welcome
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
-An ordinary college student who loves getting involved in all kinds of open-source projects.
+I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
 
 ## :art:ME
 - Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="12px" >](https://github.com/NCUHOME)**
