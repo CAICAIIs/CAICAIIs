@@ -1,7 +1,7 @@
-## 🎉Hi!Welcome.
+## 🎉Hi! Welcome my github
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
-#### I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
+### I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
 
 <div align="center">
   <img src="moe.jpg" alt="centered image" width="300"/>
