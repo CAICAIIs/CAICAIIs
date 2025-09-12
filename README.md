@@ -1,11 +1,13 @@
-## 🎉Hi, welcome
+## 🎉Hi!Welcome.
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
-I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
+#### I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
 
-<img src="moe.jpg" alt="My Image" width="300" />
+<div align="center">
+  <img src="moe.jpg" alt="centered image" width="300"/>
+</div>
 
-## :art:ME
+## 🎨ME
 - Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="12px" >](https://github.com/NCUHOME)**
 - Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="12px" >](https://github.com/NCUSCC)**
 - Member of **[@hust-open-atom-club<img src="https://avatars.githubusercontent.com/u/164288024?s=200&v=4" width="12px" >](https://github.com/hust-open-atom-club)**
