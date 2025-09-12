@@ -8,6 +8,7 @@
 </div>
 
 ## 🎨ME
+- Love coding
 - Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="12px" >](https://github.com/NCUHOME)**
 - Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="12px" >](https://github.com/NCUSCC)**
 - Member of **[@hust-open-atom-club<img src="https://avatars.githubusercontent.com/u/164288024?s=200&v=4" width="12px" >](https://github.com/hust-open-atom-club)**
