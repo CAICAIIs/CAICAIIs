@@ -17,29 +17,20 @@
 
 ## 📈 GitHub Activity Graph:
 
-<table rules="none" align="center">
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=CAICAIIs&show_icons=true&theme=default&include_all_commits=true" width="100%" />
-				</img>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAICAIIs&theme=default&layout=compact" width="100%" />
-				</img>
-			</center>
-		</td>
+<table>
+  <tr>
+    <th>
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=inscripoem&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=inscripoem&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+    </th>
+  </tr>
 </table>
 
-<center>
-		<img src="https://streak-stats.demolab.com?user=CAICAIIs&theme=gruvbox-duo" width="100%" />
-		</img>
-</center>
-
-<center>
-		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=github-compact&hide_border=true&area=true" />
-</center>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=NekoMirra's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</div>
 
 ## 🧑‍🤝‍🧑 Visitors
 
