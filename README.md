@@ -20,10 +20,10 @@
 <table>
   <tr>
     <th>
-      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=inscripoem&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
+      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=CAICAIIs&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
     </th>
     <th>
-      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=inscripoem&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
+      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=CAICAIIs&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
     </th>
   </tr>
 </table>
