@@ -5,12 +5,12 @@
 
 ## 🔭 Currently contributing to
 
-| Project | Area | Recent focus |
+| Project | Area | About |
 | --- | --- | --- |
-| [Apache Dubbo-Go](https://github.com/apache/dubbo-go) | Go RPC / microservices | Triple protocol, HTTP/3, configuration cleanup |
-| [Apache Seata-Go](https://github.com/apache/incubator-seata-go) | Distributed transactions | XA mode, TCC fence, database compatibility |
-| [Fluid](https://github.com/fluid-cloudnative/fluid) | Cloud-native data orchestration | Cache status, ConfigMap flow, OSS secret projections |
-| [vLLM Metal](https://github.com/vllm-project/vllm-metal) | LLM runtime on Apple Silicon | Structured output, paged decode metadata |
+| [Apache Dubbo-Go](https://github.com/apache/dubbo-go) | Go RPC / microservices | Go implementation of Apache Dubbo for building RPC and microservice systems |
+| [Apache Seata-Go](https://github.com/apache/incubator-seata-go) | Distributed transactions | Go implementation of Seata for distributed transaction coordination |
+| [Fluid](https://github.com/fluid-cloudnative/fluid) | Cloud-native data orchestration | Elastic data abstraction and acceleration for BigData/AI applications in cloud |
+| [vLLM Metal](https://github.com/vllm-project/vllm-metal) | LLM runtime on Apple Silicon | Community-maintained vLLM hardware plugin for Apple Silicon |
 
 ## 🎨ME
 - Love coding
