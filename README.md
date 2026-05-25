@@ -1,7 +1,17 @@
-## 🎉Hi! Nice to meet you!
+## Hi, I'm CAICAIIs
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
 
-### I'm an ordinary college student who loves getting involved in all kinds of open-source projects.
+### An undergraduate developer exploring AI infrastructure, distributed systems, and open-source runtime engineering.
+
+> 愚者在月影之中怀抱虚妄
+
+I like learning complex systems by working through real issues, reading source code, and turning messy problems into small, reviewable open-source patches.
+
+## 🧭 About Me
+
+- Currently learning: LLM serving internals, cloud native systems, Rust/CUDA systems work
+- Core interests: AI infrastructure, distributed systems, cloud native, open-source maintenance
+- I enjoy tracing bugs from symptoms to source-level behavior and leaving behind practical fixes
 
 ## 🔭 Currently contributing to
 
@@ -13,8 +23,8 @@
 | [vLLM Metal](https://github.com/vllm-project/vllm-metal) | LLM runtime on Apple Silicon | Community-maintained vLLM hardware plugin for Apple Silicon |
 | [pegainfer](https://github.com/xiaguan/pegainfer) | Rust/CUDA LLM inference | From-scratch LLM inference engine in Rust, CUDA, and Triton without PyTorch runtime |
 
-## 🎨ME
-- Love coding
+## 🎨 Communities
+
 - Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="17px" >](https://github.com/NCUHOME)**
 - Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="17px" >](https://github.com/NCUSCC)**
 - Member of **[@hust-open-atom-club<img src="https://avatars.githubusercontent.com/u/164288024?s=200&v=4" width="17px" >](https://github.com/hust-open-atom-club)**
@@ -23,38 +33,8 @@
   <img src="moe.jpg" alt="centered image" width="300"/>
 </div>
 
-## 📈 GitHub Activity Graph:
+## 📈 GitHub Activity
 
-<table>
-  <tr>
-    <th>
-      <img alt="GitHub Stats" src="https://github-readme-stats-ins.vercel.app/api?username=CAICAIIs&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" align="center" />
-    </th>
-    <th>
-      <img alt="Top Langs" src="https://github-readme-stats-ins.vercel.app/api/top-langs/?username=CAICAIIs&layout=compact&theme=city_lights&bg_color=0000&hide_border=true&langs_count=10&hide=CMake" align="center" /> 
-    </th>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CAICAIIs&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=CAICAIIs's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-</div>
-
-## 🧑‍🤝‍🧑 Visitors
-
-![Visitor Count](https://count.getloli.com/get/@:CAICAIIs)
-
-<!--
-**CAICAIIs/CAICAIIs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=CAICAIIs&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="CAICAIIs stats card" width="100%" />
+</p>
