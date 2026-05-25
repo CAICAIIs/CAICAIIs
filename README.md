@@ -7,9 +7,13 @@ I like learning complex systems by working through real issues, reading source c
 
 ## 🧭 About Me
 
-- Currently learning: LLM serving internals, cloud native systems, Rust/CUDA systems work
-- Core interests: AI infrastructure, distributed systems, cloud native, open-source maintenance
-- I enjoy tracing bugs from symptoms to source-level behavior and leaving behind practical fixes
+- Love coding
+- Love watching anime
+- Love playing games
+
+<p align="center">
+  <img src="moe.jpg" alt="moe image" width="260" />
+</p>
 
 ## 🔭 Currently contributing to
 
@@ -20,16 +24,6 @@ I like learning complex systems by working through real issues, reading source c
 | [Fluid](https://github.com/fluid-cloudnative/fluid) | Cloud-native data orchestration | Elastic data abstraction and acceleration for BigData/AI applications in cloud |
 | [vLLM Metal](https://github.com/vllm-project/vllm-metal) | LLM runtime on Apple Silicon | Community-maintained vLLM hardware plugin for Apple Silicon |
 | [pegainfer](https://github.com/xiaguan/pegainfer) | Rust/CUDA LLM inference | From-scratch LLM inference engine in Rust, CUDA, and Triton without PyTorch runtime |
-
-## 🎨 Communities
-
-- Member of **[@NCUHOME<img src="https://avatars.githubusercontent.com/u/18623963?s=200&v=4" width="17px" >](https://github.com/NCUHOME)**
-- Member of **[@NCUSCC<img src="https://avatars.githubusercontent.com/u/129391136?s=200&v=4" width="17px" >](https://github.com/NCUSCC)**
-- Member of **[@hust-open-atom-club<img src="https://avatars.githubusercontent.com/u/164288024?s=200&v=4" width="17px" >](https://github.com/hust-open-atom-club)**
-
-<div align="center">
-  <img src="moe.jpg" alt="centered image" width="300"/>
-</div>
 
 ## 📈 GitHub Activity
 
