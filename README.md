@@ -1,8 +1,6 @@
 ## Hi, I'm CAICAIIs
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)
-
-### An undergraduate developer exploring AI infrastructure, distributed systems, and open-source runtime engineering.
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=愚者在月影之中怀抱虚妄)<br>
+**An undergraduate developer exploring AI infrastructure, distributed systems, and open-source runtime engineering.**<br>
 I like learning complex systems by working through real issues, reading source code, and turning messy problems into small, reviewable open-source patches.
 
 ## 🧭 About Me
