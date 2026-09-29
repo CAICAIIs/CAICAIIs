@@ -7,6 +7,7 @@
 - Love coding
 - Love watching anime
 - Love playing games
+- I often use QQ, feel free to add me: 3360776475
 
 <p align="center">
   <img src="moe.jpg" alt="moe image" width="260" />
