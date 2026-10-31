@@ -19,7 +19,7 @@
 | --- | --- | --- |
 | [PegaInfer](https://github.com/pegainfer-project/pegainfer) | Rust/CUDA LLM inference | Pure Rust + CUDA LLM inference engine with no PyTorch or model framework runtime |
 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | LLM serving / KV cache | KVCache-centric disaggregated architecture for LLM serving |
-| [AReno](https://github.com/inclusionAI/AReno) | LLM post-training / RL | Self-contained single-node toolkit for LLM RL post-training, serving, and agentic RL |
+| [vLLM](https://github.com/vllm-project/vllm) | LLM inference / serving | High-throughput and memory-efficient inference and serving engine for LLMs |
 | [Apache Dubbo-Go](https://github.com/apache/dubbo-go) | Go RPC / microservices | Go implementation of Apache Dubbo for building RPC and microservice systems |
 | [Apache Seata-Go](https://github.com/apache/incubator-seata-go) | Distributed transactions | Go implementation of Seata for distributed transaction coordination |
 
